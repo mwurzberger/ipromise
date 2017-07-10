@@ -1,0 +1,14 @@
+{
+  "name": "ipromise",
+  "version": "1.0.0",
+  "description": "Various promise examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mwurzberger",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
