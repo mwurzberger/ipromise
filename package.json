@@ -9,6 +9,7 @@
   "author": "mwurzberger",
   "license": "UNLICENSED",
   "devDependencies": {
+    "bluebird": "^3.5.0",
     "mocha": "^3.4.2"
   }
 }
